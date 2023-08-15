@@ -39,12 +39,7 @@ a:hover{
 }
 
 #navbar ul li{
-  /* display: block; */
   float: left;
-  /* display: block; */
-  /* padding: 20px; */
-  /* text-align: center; */
-  /* background-color: #444; */
 }
 
 #navbar ul li a{
@@ -53,9 +48,6 @@ a:hover{
   text-align: center;
 }
 
-/* #navbar ul li:hover{
-  color: #f7c08a;
-} */
 
 #navbar ul li a:hover,
 #navbar ul li a.current{
@@ -70,11 +62,8 @@ a:hover{
 }
 
 #showcase{
-  /* text-align: center;
-  max-width: 900px; */
   padding-bottom: 150px;
-  background: url(king.jpg) no-repeat;
-  /* margin-bottom: 50px; */
+  background: url(/images/king.jpg) no-repeat;
 }
 
 .enjoy{
@@ -111,7 +100,7 @@ a:hover{
 }
 
 #history #under-img{
-  background: url(pic2.jpg) no-repeat center center/cover;
+  background: url(/images/pic2.jpg) no-repeat center center/cover;
   float: left;
   width: 50%;
   min-height: 100%;
@@ -172,7 +161,6 @@ a:hover{
   float: left;
   width: 50%;
   height: 100%;
-  /* text-align: center; */
   padding: 30px 20px;
 }
 
@@ -205,7 +193,7 @@ a:hover{
 
 
 #testimony{
-  background: url(pic4.jpg) no-repeat center center/cover;
+  background: url(/images/pic4.jpg) no-repeat center center/cover;
   padding: 50px;
   padding-top: 100px;
 }
